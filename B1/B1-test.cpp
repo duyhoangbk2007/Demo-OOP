@@ -8,4 +8,4 @@ int main() {
     cout << x;
 }
 
-//Test git pull
+//Test git pull va test xung dot
